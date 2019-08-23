@@ -168,7 +168,7 @@ Locales.addLocale(new Locale({
 Locales.addLocale(new Locale({
   language: 'en',
   title: "Would you mind rating %@?",
-  message: "It won’t take more than a minute and helps to promote our app. Thanks for your support!",
+  message: "It won't take more than a minute and helps to promote our app. Thanks for your support!",
   cancelButtonLabel: "No, Thanks",
   laterButtonLabel: "Remind Me Later",
   rateButtonLabel: "Rate It Now",
@@ -231,7 +231,7 @@ Locales.addLocale(new Locale({
 Locales.addLocale(new Locale({
   language: 'fr',
   title: "Notez %@",
-  message: "Si vous aimez utiliser %@, n’oubliez pas de voter sur l’App Store. Cela ne prend qu’une minute. Merci d’avance pour votre soutien !",
+  message: "Si vous aimez utiliser %@, n'oubliez pas de voter sur l'App Store. Cela ne prend qu'une minute. Merci d'avance pour votre soutien !",
   cancelButtonLabel: "Non, merci",
   laterButtonLabel: "Me le rappeler ultérieurement",
   rateButtonLabel: "Votez maintenant",
